@@ -11,12 +11,22 @@ menu: Tarea Académica
  no trabajó por lo que deberá comunicárselo al profesor con dos días de anticipación
  de la fecha pactada de entrega.
  * El orden de entrega será en orden de nro de grupo, tomando en cuenta una
- rotación circular ((Round Robbin)[https://es.wikipedia.org/wiki/Planificaci%C3%B3n_Round-robin]).
- * En cada clase presentarán su trabajo en clase dos grupos. Los grupoz que no presenten en clase (según programación) deberán de hacerlo en la hora de asesoría del profesor (a coordinar).
+ rotación circular ([Round Robbin](https://es.wikipedia.org/wiki/Planificaci%C3%B3n_Round-robin)).
+ * En cada clase presentarán su trabajo en clase dos grupos. Los grupos que no presenten en clase (según programación) deberán de hacerlo en la hora de asesoría del profesor (a coordinar).
  * Para la presentación, se tomará en cuenta el orden y la formalidad del trabajo.
  * Las presentaciones en clase serán en la última hora de la fecha planificada y cada grupo tendrá como máximo 30 minutos para exponer. El orden esta determinado en el cuadro cronograma.
  * Si un grupo no llega a presentar en la fecha que le toca, su nota será de 00 sin opción de reclamo de ningún tipo.
 
+### Grupos
+
+| Grupo        | Aplicación    |
+| ------------ |:-------------:|
+| Grupo 1 | Food Tracker |
+| Grupo 2 | Vet Guide    |
+| Grupo 3 | Dog Love     |
+| Grupo 4 | Vet Guide    |
+| Grupo 5 | Food Tracker |
+| Grupo 6 | Dog Love     |
 
 ### Cronograma
 
