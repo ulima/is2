@@ -60,6 +60,7 @@ menu: Tarea Académica
 * Sprint Backlog corregido.
 * Prototipos (Diagrama de flujo - wireframes) (100%)
 * Diagrama de Casos de Uso (100%)
+* Modelo de Dominio
 * Actas de reunión Scrum Weekly.
 * Implementación de prueba de arquitectura con historia de usuario
 
