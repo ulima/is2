@@ -19,14 +19,14 @@ menu: Tarea Académica
 
 ### Grupos
 
-| Grupo        | Aplicación    |
+| Grupo        | Aplicación    | URL Proyecto |
 | ------------ |:-------------:|
-| Grupo 1 | Food Tracker |
-| Grupo 2 | Vet Guide    |
-| Grupo 3 | Dog Love     |
-| Grupo 4 | Vet Guide    |
-| Grupo 5 | Food Tracker |
-| Grupo 6 | Dog Love     |
+| Grupo 1 | Food Tracker | [Link](https://github.com/stephmorzan/FoodTracker/wiki) |
+| Grupo 2 | Vet Guide    | [Link](https://github.com/kevinray04/Software-II/wiki) |
+| Grupo 3 | Dog Love     | [Link](https://github.com/jorgetl26/Software-2/wiki) |
+| Grupo 4 | Vet Guide    | [Link](https://github.com/ProyectoSw2/VetGuide/wiki) |
+| Grupo 5 | Food Tracker | [Link](#) |
+| Grupo 6 | Dog Love     | [Link](http://miguel546.github.io/grupo6doglove.github.io/) |
 
 ### Cronograma
 
@@ -49,6 +49,15 @@ menu: Tarea Académica
 * Sprint Backlog (100%)
 * Prototipos (wireframes) (50%)
 * Diagrama de Casos de Uso (50%)
+
+| Grupo        | Product Owners           |
+| :----------: |:------------------------:|
+| Grupo 1      | Stephany Morzan          |
+| Grupo 2      | Gustavo Gutierrez        |
+| Grupo 3      | Stephan Vargas           |
+| Grupo 4      | Jose Portilla            |
+| Grupo 5      | ??????????????           |
+| Grupo 6      | Diandra Sanchez          |
 
 #### Avance previo al Sprint 1
 
