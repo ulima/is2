@@ -77,6 +77,10 @@ menu: Tarea Académica
 
  * Documentación
    * Documento de Arquitectura
+     * Modelo de dominio
+     * Arquitectura en grande
+     * Diagrama de secuencia de caso de uso complejo
+     * Documento de comunicación (interfaces front-back)
    * Wiki con gestión de la configuración
    * Actas de reunión Scrum Weekly.
 * Implementación de historias de usuario implementadas al 20%.
